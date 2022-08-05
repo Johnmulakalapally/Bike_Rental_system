@@ -1,2 +1,8 @@
-# Bike_Rental_system
-Here we can create the class and firstly we take bikes stock zero and we define the one functon to display the hourly basis rent system information and second function to display the daily basis rent system information and third function to display the weekly basis rent system information. and last function we define the whole calculation part, if i take a bike of hourly bases rent we note the taken time at the time of return we calculate number of hours and we calculate rent and we charge $5 for one hour, $20 for one day in daily basis, $60 for one week in weekly basis.
+# A Bike Rental System
+### A full fledged bike rental system implemented in Python using object oriented programming.
+## Customers can do the following tasks : 
+### 1) See available bikes on the shop
+### 2) Rent bikes on hourly basis $5 per hour.
+### 3) Rent bikes on daily basis $20 per day.
+### 4) Rent bikes on weekly basis $60 per week.
+### 5) Family Rental, a promotion that can include from 3 to 5 Rentals (of any type) with a discount of 30% of the total price
