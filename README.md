@@ -6,3 +6,7 @@
 ### 3) Rent bikes on daily basis $20 per day.
 ### 4) Rent bikes on weekly basis $60 per week.
 ### 5) Family Rental, a promotion that can include from 3 to 5 Rentals (of any type) with a discount of 30% of the total price
+## The bike rental shop Owner can do Following Tasks :
+### 1) Issue a bill when customer decides to return the bike.
+### 2) Display available inventory
+### 3) Take requests on hourly, daily and weekly basis by cross verifying stock
