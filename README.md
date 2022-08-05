@@ -1,6 +1,6 @@
 # A Bike Rental System
 #### A full fledged bike rental system implemented in Python using object oriented programming.
-<image src ![image](https://user-images.githubusercontent.com/110035432/183087652-7c141780-5859-4871-be3c-617b76d0abf1.png) size=300 300>
+![image](https://user-images.githubusercontent.com/110035432/183087652-7c141780-5859-4871-be3c-617b76d0abf1.png)=250 250
 ## Customers can do the following tasks : 
 #### 1) See available bikes on the shop
 #### 2) Rent bikes on hourly basis $5 per hour.
@@ -14,4 +14,4 @@
 <ul> <li type=circle> Any customer requests rentals of Stock available i.e hourly, monthly or weekly<br>
      <li type=circle> Customer is Free to chose the number of bikes he/she wants<br>
      <li type=circle> Only Thing is,Requested bikes should be less than available stock.<br></ul>
-<image src ![Bike_1](https://user-images.githubusercontent.com/110035432/183086392-0e7604cb-a5c7-4d33-8368-ce3147230b28.png) size=200 200>
+![Bike_1](https://user-images.githubusercontent.com/110035432/183086392-0e7604cb-a5c7-4d33-8368-ce3147230b28.png) =200 200
