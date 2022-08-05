@@ -11,6 +11,6 @@
 #### 1) Issue a bill when customer decides to return the bike.
 #### 2) Display available inventory
 #### 3) Take requests on hourly, daily and weekly basis by cross verifying stock
-<ul> <li type=circle>---> Any customer requests rentals of Stock available i.e hourly, monthly or weekly<br>
-     ---> Customer is Free to chose the number of bikes he/she wants<br>
-     ---> Only Thing is,Requested bikes should be less than available stock.<br></ul>
+<ul> <li type=circle> Any customer requests rentals of Stock available i.e hourly, monthly or weekly<br>
+     <li type=circle> Customer is Free to chose the number of bikes he/she wants<br>
+     <li type=circle> Only Thing is,Requested bikes should be less than available stock.<br></ul>
